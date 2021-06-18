@@ -1,17 +1,14 @@
 /** package-info.java*/
 package com.example;
 
-  /**  
-  *Classe greeter
+  /**  Classe greeter
   *@author  khaled
   *@version 1.0
   *@since 18
   */
 public class Greeter {
 
-  /** 
-  * Create an empty Greeter
-  */
+  /** Create an empty Greeter*/
   public Greeter() {
 
 }
