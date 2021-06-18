@@ -10,16 +10,12 @@ package com.example;
   */
 public class Greeter {
 
-  /**. 
-  *Create an empty Greeter
-  */
+  /**. Create an empty Greeter*/
   public Greeter() {
 
 }
 
-/**.
-*{@inheritDoc} 
-*/
+/**.{@inheritDoc} */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
