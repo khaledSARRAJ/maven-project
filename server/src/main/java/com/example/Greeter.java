@@ -15,12 +15,8 @@ public class Greeter {
   public Greeter() {
 
 }
-/** 
-*Methode qui renvoit "Hello babacar"
-*@param somene une personne
-*@return String une phrase
-*
-*/
+
+/** {@inheritDoc} */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
